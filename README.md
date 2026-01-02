@@ -19,4 +19,5 @@ Enable pharmaceutical sales leadership to drive sustainable revenue growth by id
 ## Project Blueprint
 📄 This project follows a structured analytics blueprint outlining the business context, objectives, stakeholder questions, and analytical approach.
 
-👉 [View Project Blueprint](PROJECT_BLUEPRINT.md)
+[View Project Blueprint](Project%20Blueprint.md)
+
